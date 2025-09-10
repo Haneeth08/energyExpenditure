@@ -1,0 +1,6 @@
+speed_kmph,distance_km,heart_rate_bpm,ride_duration_min,elevation_gain_m,terrain_type,energy_expenditure_kcal
+27.48,20.91,135.36,76.42,341.2,downhill,76.21
+24.31,14.93,128.72,98.17,492.34,uphill,159.61
+28.24,65.46,144.79,168.28,65.26,uphill,166.73
+32.62,72.12,160.11,33.76,70.23,uphill,157.7
+23.83,8.0,111.87,66.31,137.46,flat,83.89
